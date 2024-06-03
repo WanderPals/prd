@@ -199,7 +199,7 @@ To evaluate the success of the WanderPals MVP, the following metrics will be use
     - **Rationale:** Ensures that key features are valuable and used frequently by the target personas.
 
 8. **Retention Rate:**
-    - **Target:** Achieve a 70% retention rate within the first six months.
+    - **Target:** Achieve a 50% retention rate within the first six months.
     - **Rationale:** High retention rates indicate user satisfaction and ongoing engagement with the app.
 
 ### Progress with Ecosystem Partners / Investors / Customers
