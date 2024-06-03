@@ -36,7 +36,7 @@
     - **Description**: Facilitates the storage and sharing of important trip-related documents like itineraries, tickets, and photos.
 
 8. **Finance Management:**
-    - **Components**: Expense tracking, cost splitting, budget management.
+    - **Components**: Expense tracking, cost splitting, budget management,currency management.
     - **Description**: Tracks expenses, splits costs among trip participants, and manages trip budgets.
 
 9. **Activity Recommendations/Discoverability:**
