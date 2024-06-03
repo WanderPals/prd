@@ -54,7 +54,7 @@ The development of the WanderPals MVP is planned over a 6-month period, divided 
 
 1. **Android Studio:**
    - **Purpose:** Primary IDE for Android app development.
-2. **Google Firebase:**
+2. **AWS / Google Firebase / Azure**
    - **Purpose:** Backend services including authentication, database, storage, and analytics.
 3. **JUnit:**
    - **Purpose:** Unit testing framework for Java.
