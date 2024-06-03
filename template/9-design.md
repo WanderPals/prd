@@ -83,7 +83,7 @@
 - Save and cancel buttons.
 
 #### Map Screen:
-- Display a Map centered around the destination of the trip
+- Display a Map centered around the destination of the trip.
 - Option to pin location locally for later use, share real time location with others and create suggestion from pinned location.
 
 #### Feed Screen:
