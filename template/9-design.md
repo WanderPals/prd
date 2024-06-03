@@ -56,6 +56,40 @@
 - Forms for user authentication.
 - Switch between login and signup.
 
+#### Dashboard Screen:
+- Shows a resume of the other screens related to the trip.
+- Central point of navigation of the App.
+
+#### Suggestion Screen:
+- List of all suggestions made by the member of the trip.
+- Option to vote for a suggestion, comment on it, delete it or edit it.
+- Option to create a new suggestion.
+
+#### Suggestion Creation Screen:
+- Form to enter suggestion details like title, description, address, dates and duration.
+- Save and cancel buttons.
+
+#### Agenda Screen:
+- List all accepted suggestions in the form of an Agenda.
+- Option to delete an accepted suggestion.
+
+#### Finance Screen:
+- List all expenses involved in the trip.
+- Option to see the detail of an expense or create a new one.
+- Option to settle debt between users.
+
+#### Expense Creation Screen:
+- Form to enter expense details like title, who paid, when and for who.
+- Save and cancel buttons.
+
+#### Map Screen:
+- Display a Map centered around the destination of the trip
+- Option to pin location locally for later use, share real time location with others and create suggestion from pinned location.
+
+#### Feed Screen:
+- List all events that happened in the trip.
+- Option to create Announcements to notify all user from a trip of something.
+
 ## Backend
 
 **Decompose the MVP into Functional Blocks:**
