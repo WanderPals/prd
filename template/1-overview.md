@@ -8,7 +8,6 @@
 
 *Include a 3-sentence (max) elevator pitch.*
 
-### Overview
 
 #### Project Purpose
 
