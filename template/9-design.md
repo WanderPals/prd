@@ -118,9 +118,32 @@
 
 *Any special infrastructure requirements.*
 
+
 ## Test Plan
 
 *How is the application developed, tested and deployed?*
 
 *Any special infrastructure requirements.*
+
+
+The application is developed using a combination of frontend and backend technologies. It undergoes rigorous testing, including unit tests, integration tests, and end-to-end tests, to ensure functionality and reliability. Continuous Integration (CI) and Continuous Deployment (CD) pipelines are utilized to automate testing and deployment processes. The application is deployed on smartphones via standard app distribution platforms such as Google Play Store.
+
+- **Configuring Tests in the Build Process**: Integrate test execution into the build process with Gradle. Configure build steps to automatically execute both unit and integration tests during deployment.
+
+- **Using Gradle to Run Tests**: Configure Gradle tasks to run tests. Leverage Gradle plugins, such as the 'java' plugin, to automate test execution as part of the deployment process.
+
+- **Continuous Integration (CI) and Continuous Deployment (CD)**: Automate test execution within a CI/CD pipeline. Set up triggers to run tests whenever new code is validated, and integrate test results seamlessly into the deployment process.
+  
+- **Writing Unit and Integration Tests**: Utilize testing frameworks : JUnit for backend unit tests and Kaspresso for Android UI tests. Additionally, write integration tests to validate interactions between various components.
+  
+- **Regression Testing**: Conduct regression tests to ensure that new updates or changes do not negatively impact existing functionality. Automate regression tests where possible to streamline the testing process.
+  
+- **End-to-End Testing**: Perform end-to-end tests to validate real-world application behavior. Tools like Espresso for Android testing can simulate user interactions and verify UI functionality.
+
+- **Using Mockito for Mock Testing**: Employ Mockito, a Java library, to create mock objects that simulate external dependencies. This isolation technique aids in unit testing by ensuring that each component behaves as expected in isolation.
+
+- **Beta Testing**: Prior to full deployment, conduct beta testing by releasing a pre-release version of the application to a limited group of users or a closed user group. Collect feedback from beta testers regarding usability, functionality, and any issues encountered.
+
+- **Testing on Production-Like Environments**: Validate test reliability by running tests in environments resembling production. Utilize virtualization tools or containers to replicate production configurations and ensure accurate testing.
+
 
