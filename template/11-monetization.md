@@ -85,7 +85,7 @@
    - **Nearby Points of Interest (cafes, attractions):** Charge businesses for featured placements in search results.
 
 5. **Advertising**
-   - **In-app Ads:** Integrate non-intrusive ads for additional revenue.
+   - **In-app Ads:** Integrate non-intrusive ads for additional revenue, only for the free version.
    - **Partner Promotions:** Collaborate with travel brands for targeted promotions.
 
 ## Revenue Projections
