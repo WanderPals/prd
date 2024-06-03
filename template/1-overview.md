@@ -27,7 +27,7 @@ Planning group trips can be a hassle, but our app makes it easy and fun. It comb
   
 - **Finance Management Tool:** Tracks spending, shares costs transparently, and facilitates settlements among group members.
   
-- **Shared Itinerary Feature:** Offers a view of daily plans and activities, updated manually by users or automatically through indirect actions.
+- **Shared Itinerary Feature:** Offers a view of daily plans and activities, updated manually by users or automatically through indirect actions. The itinerary should also be visible on the map, providing the benefits of easy navigation, a visual representation of the journey, and improved coordination among users.
   
 - **GPS Position Sharing:** Enables real-time or periodic sharing of members' locations for easier meetups and allows push notifications to communicate meeting times and locations.
   
