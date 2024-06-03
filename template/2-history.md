@@ -1,13 +1,12 @@
 # History
 
-During this semester, we created a collaborative travel application enabling each participant in the “trip” to add points of interest to the trip. The application includes various features.
-We've added the possibility of adding expenses during the trip, so that we can track individual and group expenses. Each expense creates a debt that must be repaid by those designated by the debt creator. Debts can be visually observed through the debt screen and a pie chart. 
+During this semester, we developed a collaborative travel application that allows each participant in a trip to add points of interest. The application includes various features.
 
-In the Map tab we can add stop suggestions (= future Interest points to visit) but also see where the other people on the trip are. However, we can also create them from the suggestion screen. In this screen, trip participants can vote for each suggestion. A majority of these suggestions will become real stops. Teammates can also add comments. A diary page completes the picture, offering a visualization of the different stops over time.
+We implemented the ability to add expenses during the trip to track both individual and group expenses. Each expense creates a debt that must be repaid by those designated by the debt creator. Debts can be viewed through a debt screen and visualized with a pie chart.
 
-We've also introduced a section for uploading travel documents for private or shared use.
-Finally, we've added a notification and announcement area. In this tab, we've added an overview of all the actions of each of the teammates, and in the announcements we've included all the important information for each of the trip's travelers (remainder for passports, etc.). What's more, each user can consult his or her own data and role and some persons can update a role.
+In the Map tab, users can add stop suggestions (future points of interest) and see the locations of other trip participants. Suggestions can also be created from the suggestion screen, where participants can vote on each suggestion. Suggestions with a majority vote become actual stops, and teammates can add comments. A diary page provides a visualization of the different stops over time.
 
+We introduced a section for uploading travel documents for private or shared use. Additionally, we added a notification and announcement area. This tab offers an overview of all teammates' actions and includes important announcements for travelers (such as passport reminders). Each user can view their own data and role, and certain users can update roles.
 
 *What did you learn?*
 
