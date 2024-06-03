@@ -49,3 +49,5 @@
     - Offload time-consuming tasks (e.g., data analysis, notifications) to background processes to keep the main application responsive.
 5. **Redundancy and Failover:**
     - Set up redundant servers and failover mechanisms to ensure high availability and minimize downtime in case of server failures.
+6. **Concurrency Control:**
+    - Implement robust concurrency control mechanisms to manage simultaneous data access and updates and ensure that database transactions are handled safely to prevent data corruption.

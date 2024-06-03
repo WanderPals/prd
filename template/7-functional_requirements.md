@@ -58,6 +58,9 @@
 
 *Insert High-Level Architecture Diagram here*
 
+![PRDMVARDG](https://github.com/WanderPals/prd/assets/47075878/2cacaa86-740b-4b4d-a80c-a3018a949bde)
+
+
 ## Key Internal Functionality
 
 1. **User Authentication System:**
