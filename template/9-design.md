@@ -2,6 +2,59 @@
 
 ## Frontend
 
+### Key Libraries, Languages, and Components
+
+#### Languages:
+- **Kotlin**: Primary language for Android development.
+
+#### Frameworks and Libraries:
+- **Jetpack Compose**: Modern toolkit for building native UI.
+- **Material Components for Android**: For implementing Material Design UI.
+- **Android Jetpack Components**: For modern Android development.
+  - **LiveData**: Observable data holder class.
+  - **ViewModel**: Manages UI-related data in a lifecycle-conscious way.
+  - **Navigation Component**: For handling navigation.
+- **Retrofit**: HTTP client for making API requests.
+- **Glide**: Image loading library.
+- **Coroutines**: For asynchronous programming.
+- **Hilt**: Dependency injection framework.
+- **Google Maps and Places API**: For integrating location and place search functionalities.
+- **Ktor**: For notifications. 
+
+#### Components:
+- **Activity**: Represents a single screen with a user interface.
+- **Fragment**: A portion of UI within an Activity.
+- **Composable Functions**: Used in Jetpack Compose for defining UI components.
+- **ViewModel**: Manages UI-related data.
+- **LiveData**: Handles data in a lifecycle-aware manner.
+
+### Essential Screens
+
+#### Home Screen:
+- Welcome message.
+- Buttons to create a new trip or view existing trips.
+
+#### Trip List Screen:
+- List of trips the user is part of, displayed using a RecyclerView or Jetpack Compose equivalent.
+- Option to view trip details or create a new trip.
+
+#### Trip Detail Screen:
+- Detailed itinerary displayed using various Views (e.g., TextView, ImageView) or Composable functions.
+- List of participants.
+- Options to edit trip details (for owners/admins).
+
+#### Trip Creation Screen:
+- Form to enter trip details like destination, dates, and participants.
+- Save and cancel buttons.
+
+#### Profile Screen:
+- User information (name, email).
+- List of trips the user is involved in.
+- Option to edit profile details.
+
+#### Login/Signup Screen:
+- Forms for user authentication.
+- Switch between login and signup.
 
 ## Backend
 
