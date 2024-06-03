@@ -11,25 +11,25 @@
 ### Target Personas and Roles
 
 1. **Trip Creator/Owner (Key Persona)**
-    - **Demographics:** 20-40 years old
+    - **Demographics:** 18-50 years old
     - **Role:** Initiates and manages the trip, has full control over trip settings, permissions, and details.
     - **Needs:** Efficiently plan and organize group trips, coordinate with multiple people, ensure everyone is informed and on the same page.
     - **Usage Context:** Often organizes trips for friends, family, or colleagues and requires a robust tool to manage all aspects of travel planning.
 
 2. **Trip Admin**
-    - **Demographics:** 20-40 years old
+    - **Demographics:** 18-50 years old
     - **Role:** Assists the trip owner in managing the trip with similar but limited permissions.
     - **Needs:** Help in managing trip logistics and coordination without being overwhelmed with full control.
     - **Usage Context:** Frequently supports the trip owner by handling specific tasks such as itinerary updates and communication.
 
 3. **Trip Member**
-    - **Demographics:** 15-40 years old
+    - **Demographics:** 15-50 years old
     - **Role:** Participates in the trip planning by suggesting activities, voting, and engaging in discussions.
     - **Needs:** Stay updated on trip details, contribute ideas, and participate in group decisions.
     - **Usage Context:** Actively involved in the trip planning process, prefers collaborative and interactive tools to share input.
 
 4. **Trip Viewer**
-    - **Demographics:** 15-40 years old
+    - **Demographics:** 12-50 years old
     - **Role:** Observes the trip details without the ability to propose or modify anything.
     - **Needs:** Stay informed about trip plans and details without active participation.
     - **Usage Context:** Typically a less engaged participant, such as a family member or a friend who wants to stay updated.
