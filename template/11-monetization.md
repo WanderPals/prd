@@ -2,44 +2,68 @@
 
 ## Expected Operating Costs
 
-1. **Development Costs**
-   - **Salaries:**
-     - **Project Manager:** 120,000 CHF/year
-     - **UI/UX Designer:** 90,000 CHF/year
-     - **Android Developers (2):** 100,000 CHF/year each
-     - **Backend Developers (2):** 100,000 CHF/year each
-     - **QA Engineers (2):** 80,000 CHF/year each
-     - **DevOps Engineer:** 110,000 CHF/year
-     - **Marketing Specialist:** 85,000 CHF/year
-   - **Total Annual Salary Costs:** 865,000 CHF
+### Development Costs
 
-2. **Tools and Technologies**
-   - **Android Studio:** Free
-   - **Google Firebase:** 2,000 CHF/month for backend services (authentication, database, storage, analytics)
-   - **JUnit and Mockk:** Free
-   - **Figma:** 45 CHF/month
-   - **GitHub:** 150 CHF/month
-   - **Slack:** 80 CHF/month
-   - **Total Monthly Tool Costs:** 2,275 CHF
-   - **Total Annual Tool Costs:** 27,300 CHF
+| Role                | Salary (CHF/year) |
+|---------------------|-------------------|
+| Project Manager     | 120,000           |
+| UI/UX Designer      | 90,000            |
+| Android Developer 1 | 100,000           |
+| Android Developer 2 | 100,000           |
+| Backend Developer 1 | 100,000           |
+| Backend Developer 2 | 100,000           |
+| QA Engineer 1       | 80,000            |
+| QA Engineer 2       | 80,000            |
+| DevOps Engineer     | 110,000           |
+| Marketing Specialist| 85,000            |
+| **Total**           | **865,000**       |
 
-3. **Infrastructure Costs**
-   - **Cloud Services (AWS/Google Cloud):** 1,500 CHF/month
-   - **CDN Services:** 200 CHF/month
-   - **Total Monthly Infrastructure Costs:** 1,700 CHF
-   - **Total Annual Infrastructure Costs:** 20,400 CHF
+### Tools and Technologies
 
-4. **Marketing and Promotion**
-   - **Initial Launch Campaign:** 10,000 CHF
-   - **Ongoing Marketing (social media, partnerships, ads):** 3,000 CHF/month
-   - **Total Annual Marketing Costs:** 46,000 CHF
+| Tool                  | Monthly Cost (CHF) | Annual Cost (CHF) |
+|-----------------------|--------------------|-------------------|
+| Android Studio        | Free               | Free              |
+| Google Firebase       | 2,000              | 24,000            |
+| JUnit and Mockk       | Free               | Free              |
+| Figma                 | 45                 | 540               |
+| GitHub                | 150                | 1,800             |
+| Slack                 | 80                 | 960               |
+| **Total**             | **2,275**          | **27,300**        |
 
-5. **Miscellaneous Costs**
-   - **Office Supplies and Utilities:** 5,000 CHF/year
-   - **Legal and Accounting Fees:** 10,000 CHF/year
-   - **Total Annual Miscellaneous Costs:** 15,000 CHF
+### Infrastructure Costs
 
-6. **Total Expected Annual Operating Costs:** 886,067 CHF
+| Service             | Monthly Cost (CHF) | Annual Cost (CHF) |
+|---------------------|--------------------|-------------------|
+| Cloud Services      | 1,500              | 18,000            |
+| CDN Services        | 200                | 2,400             |
+| **Total**           | **1,700**          | **20,400**        |
+
+### Marketing and Promotion
+
+| Activity                   | Cost (CHF)    |
+|----------------------------|---------------|
+| Initial Launch Campaign    | 10,000        |
+| Ongoing Marketing (monthly)| 3,000         |
+| **Total Annual Cost**      | **46,000**    |
+
+### Miscellaneous Costs
+
+| Item                     | Cost (CHF/year) |
+|--------------------------|-----------------|
+| Office Supplies & Utilities | 5,000           |
+| Legal & Accounting Fees  | 10,000          |
+| **Total**                | **15,000**      |
+
+### Total Expected Annual Operating Costs
+
+| Category                | Annual Cost (CHF) |
+|-------------------------|-------------------|
+| Development Costs       | 865,000           |
+| Tools and Technologies  | 27,300            |
+| Infrastructure Costs    | 20,400            |
+| Marketing and Promotion | 46,000            |
+| Miscellaneous Costs     | 15,000            |
+| **Total**               | **886,067**       |
 
 ## Revenue Streams
 
@@ -94,10 +118,12 @@
 
 6. **Total Revenue (first year):** 93,730 CHF
 
-### Summary
+## Summary
 
-**Operating Costs (Year 1):** 886,067 CHF  
-**Revenue (Year 1):** 93,730 CHF  
-**Net Operating Income (Year 1):** -792,337 CHF  
+| Category                 | Amount (CHF)   |
+|--------------------------|----------------|
+| **Operating Costs (Year 1)** | **886,067** |
+| **Revenue (Year 1)**     | **93,730**     |
+| **Net Operating Income (Year 1)** | **-792,337** |
 
 The first year is expected to operate at a loss due to high initial costs and gradual user acquisition. However, as the user base grows and premium conversions increase, revenue will rise significantly. Further funding and strategic partnerships will be crucial to sustaining operations and achieving profitability in subsequent years.
