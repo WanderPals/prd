@@ -1,20 +1,10 @@
 # User Analytics and Acceptance
 
-*Goal: understand how users are using the app.*
-
-*Which are the key metrics?*
-
-*What is the success criteria?*
-
-*What is the analysis plan (link to data collection)?*
-
-*Include relevant A/B testing ideas.*
-
-#### Goal
+### Goal
 
 The goal is to understand how users are interacting with the app to identify areas for improvement, ensure the app meets user needs, and optimize the overall user experience. By tracking key metrics and analyzing user behavior, we aim to make data-driven decisions that enhance the app's functionality and user satisfaction.
 
-#### Key Metrics
+### Key Metrics
 
 1. **User Engagement:**
    - **Daily Active Users (DAU) / Monthly Active Users (MAU):** Measures the number of users engaging with the app on a daily and monthly basis.
@@ -33,14 +23,14 @@ The goal is to understand how users are interacting with the app to identify are
    - **Net Promoter Score (NPS):** Measures user satisfaction and likelihood to recommend the app to others.
    - **Customer Feedback:** Qualitative data from user reviews and feedback.
 
-#### Success Criteria
+### Success Criteria
 
 - **High Engagement:** Achieving a DAU/MAU ratio above 20% indicates strong user engagement.
 - **Strong Retention:** A retention rate above 40% after one month suggests users find ongoing value in the app.
 - **Positive Conversion:** A free to premium conversion rate above 10% demonstrates successful monetization.
 - **High User Satisfaction:** An NPS score above 50 and predominantly positive user feedback indicate high user satisfaction.
 
-#### Analysis Plan
+### Analysis Plan
 
 1. **Data Collection:**
    - **Analytics Tools:** Integrate analytics tools like Google Analytics, Mixpanel, or Amplitude to track user interactions and collect data.
@@ -57,7 +47,7 @@ The goal is to understand how users are interacting with the app to identify are
    - **Dashboards:** Create real-time dashboards to visualize key metrics and trends.
    - **Regular Reviews:** Conduct weekly and monthly reviews of analytics data to identify areas for improvement.
 
-#### A/B Testing Ideas
+### A/B Testing Ideas
 
 1. **Onboarding Process:**
    - **Test Different Onboarding Flows:** Compare a guided tour vs. an interactive tutorial to see which improves user retention and engagement.
