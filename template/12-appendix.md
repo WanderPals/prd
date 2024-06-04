@@ -1,9 +1,5 @@
 # Appendix
 
-*This section is optional.*
-
-*Can include mockups, sequence diagrams, etc.*
-
 ![](https://github.com/WanderPals/prd/assets/80963196/12ce615f-6e1e-408b-aa2d-fb2bc9ace17a)
 ![](https://github.com/WanderPals/prd/assets/80963196/3cb23174-1a7a-4e3a-900b-141b395622bf)
 ![](https://github.com/WanderPals/prd/assets/80963196/e63f5054-8b5b-4948-b37b-5ba8f353c98a)
