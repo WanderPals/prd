@@ -92,8 +92,6 @@
 
 ## Backend
 
-**Decompose the MVP into Functional Blocks:**
-
 1. **User Authentication and Management:**
     - **Components**: Registration, login, password recovery, multi-factor authentication.
     - **Description**: Handles user authentication, secure login processes, and user profile management.
@@ -132,8 +130,6 @@
 
 ## Data Model
 
-**What Data Are You Collecting/Managing?**
-
 *User Data:*
 - Profile information (name, email, phone number, profile picture)
 - Authentication credentials (hashed passwords)
@@ -165,8 +161,6 @@
 - Cost splitting details
 - Budget information
 
-**How Is It Organised?**
-
 *Database Structure:*
 - **Users Table**: Stores user profile information, authentication credentials, and roles.
 - **Trips Table**: Contains trip details, including destination, dates, description, and associated participants.
@@ -176,13 +170,9 @@
 - **Files Table**: Manages uploaded documents and their access permissions.
 - **Finance Table**: Records expenses, cost splitting details, and budget information.
 
-**Where Is It Stored?**
-
 *Primary Storage:*
 - **Database**: A relational database (e.g., PostgreSQL, MySQL) to store structured data such as user profiles, trip details, activities, notifications, and finance data.
 - **File Storage**: A cloud storage service (e.g., AWS S3, Google Cloud Storage) to store documents and media files.
-
-**How Is It Shared/Copied/Cached?**
 
 *Data Sharing:*
 - **API Endpoints**: RESTful APIs to enable communication between the frontend and backend, facilitating data retrieval and updates.
@@ -276,10 +266,6 @@ By addressing these security considerations, WanderPals aims to create a secure 
 
 ## Infrastructure and Deployment
 
-*How is the application developed, tested and deployed?*
-
-*Any special infrastructure requirements.*
-
 ### Deployment Strategy
 
 The application is deployed on smartphones via standard app distribution platforms such as Google Play Store. Before full deployment, beta testing is conducted by releasing a pre-release version to a limited group of users to gather feedback on usability and functionality.
@@ -307,11 +293,6 @@ To support development and deployment, the following infrastructure is required:
 This comprehensive infrastructure and deployment strategy ensures the application is developed, tested, and deployed efficiently, maintaining high standards of quality and performance.
 
 ## Test Plan
-
-*How is the application developed, tested and deployed?*
-
-*Any special infrastructure requirements.*
-
 
 The application is developed using a combination of frontend and backend technologies. It undergoes rigorous testing, including unit tests, integration tests, and end-to-end tests, to ensure functionality and reliability. Continuous Integration (CI) and Continuous Deployment (CD) pipelines are utilized to automate testing and deployment processes.
 

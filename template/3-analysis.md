@@ -1,10 +1,6 @@
 # Analysis of the Situation
 
-*What are the competing products in the market today?*
-
-*What are the complementary products in the market today?*
-
-#### Competing Products
+### Competing Products
 
 Several products currently dominate the market for travel planning and coordination, each offering unique features aimed at easing the complexities of organizing trips. Notable competitors include:
 
@@ -33,7 +29,7 @@ Several products currently dominate the market for travel planning and coordinat
    - **Strengths:** Extensive travel guides, offline maps, and itinerary creation.
    - **Weaknesses:** Lacks strong social and group interaction features.
 
-#### Complementary Products
+### Complementary Products
 
 Several products complement the core functionalities of our travel planning application, enhancing the overall user experience by addressing specific needs within the travel ecosystem. These include:
 

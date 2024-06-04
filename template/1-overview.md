@@ -1,19 +1,10 @@
 # Overview
 
-*Maximum: 2 pages*
-
-*What is this project about?*
-
-*Describe succinctly and precisely its purpose.*
-
-*Include a 3-sentence (max) elevator pitch.*
-
-
-#### Project Purpose
+### Project Purpose
 
 This project aims to develop an innovative application designed to streamline the complexities of organizing group journeys. It simplifies the process of coordinating travel plans, from selecting destinations and managing budgets to sharing vital information with all participants. The application serves as a digital facilitator, making group travel planning engaging and interactive.
 
-#### Elevator Pitch
+### Elevator Pitch
 
 Planning group trips can be a hassle, but our app makes it easy and fun. It combines interactive maps, group discussion forums, and secure document storage to streamline every aspect of the journey. Experience effortless and collaborative travel planning like never before.
 

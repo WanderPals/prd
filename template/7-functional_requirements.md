@@ -1,13 +1,5 @@
 # Functional Requirements
 
-*Max 3 pages.*
-
-*List the key features of the MVP precisely.*
-
-*Include appropriate architectural diagrams.*
-
-*Describe key internal functionality.*
-
 ## Core Features of the MVP
 
 1. **User Authentication (Login/Signup):**
@@ -56,7 +48,6 @@
 
 ## High-Level Architecture Diagram
 
-*Insert High-Level Architecture Diagram here*
 
 ![WanderPals High Level Architecture Diagram](https://github.com/WanderPals/prd/assets/47075878/2cacaa86-740b-4b4d-a80c-a3018a949bde)
 

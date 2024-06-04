@@ -1,13 +1,5 @@
 # Timeline/Resource Planning
 
-*What’s the overall schedule you’re working towards?*
-
-*What resources are required?*
-
-*What are the intermediate milestones?*
-
-*List identified sprints*
-
 ## Overall Schedule
 
 The development of the WanderPals MVP is planned over a 6-month period, divided into distinct phases and sprints to ensure focused and efficient development. Each phase targets specific features and functionalities, leading to the successful release of the MVP.

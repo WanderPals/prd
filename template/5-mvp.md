@@ -2,12 +2,6 @@
 
 ## Personas and Scenarios
 
-*Who are the target personas for this product?*
-
-*Which is the key persona?*
-
-*High-level scenarios to adopt, use and share the product.*
-
 ### Target Personas and Roles
 
 1. **Trip Creator/Owner (Key Persona)**
@@ -63,12 +57,6 @@
     - **Trip Viewer:** Observes and may share trip details with their network through passive promotion.
 
 ## User Stories and Key Features
-
-*User stories about how various personas will use the product in context.*
-
-*Identify and prioritize the key features required.*
-
-*Justify the importance of each feature.*
 
 ### User Stories
 
@@ -156,12 +144,6 @@
 
 ## Success Criteria
 
-*How will you evaluate the success of the MVP?*
-
-*Metrics include user penetration, quality / satisfaction.*
-
-*If applicable, progress in discussions with ecosystem partners / investors / customers.*
-
 To evaluate the success of the WanderPals MVP, the following metrics will be used:
 
 ### User Penetration
@@ -227,12 +209,6 @@ To evaluate the success of the WanderPals MVP, the following metrics will be use
     - **Rationale:** A low churn rate indicates that users are satisfied with the app and are not leaving in large numbers.
 
 ## Features Outside the Scope
-
-*The MVP must be viable and minimal.*
-
-*Which features don’t belong in it.*
-
-*How should these be eventually integrated and in what sequence.*
 
 To ensure that the MVP for WanderPals remains both viable and minimal, certain features will be deferred for future development. The following features do not belong in the MVP and will be integrated in subsequent phases:
 
